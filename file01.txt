@@ -1,1 +1,2 @@
+"Partially implementing my feature A"
 This is a new file created in my working directory
